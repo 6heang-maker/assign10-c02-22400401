@@ -14,6 +14,7 @@ const data =  [
         id: 2,
         wrongMatch: false
     },
+    
     {
         isClicked: false,
         isDone: false,
