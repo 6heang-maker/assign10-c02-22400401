@@ -74,7 +74,7 @@ const data =  [
     {
         isClicked: false,
         isDone: false,
-        icon: "fa-brands fa-react",
+        icon: "fa-solid fa-star",
         id: 11,
         wrongMatch: false
     },
@@ -82,7 +82,7 @@ const data =  [
     {
         isClicked: false,
         isDone: false,
-        icon: "fa-brands fa-angular",
+        icon: "fa-solid fa-heart",
         id: 12,
         wrongMatch: false
     },
