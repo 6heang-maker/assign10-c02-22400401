@@ -65,7 +65,7 @@ React와 Angular 로고 -> 별과 하트 아이콘
 
 5. Deployment
 
-Vercel: 
+Vercel: https://assign10-c02-22400401.vercel.app/
 
 
 6. Weekly Review
