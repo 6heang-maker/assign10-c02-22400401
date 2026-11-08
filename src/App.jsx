@@ -28,7 +28,7 @@ function App() {
             <input
               name='username'
               type='text'
-              placeholder='Username'
+              placeholder='이름을 입력'
               onChange={e => setData(prevData => ({...prevData, username: e.target.value}))}
               value={data.username}
             />
